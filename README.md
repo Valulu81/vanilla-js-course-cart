@@ -25,7 +25,7 @@ Construir una **interfaz interactiva para agregar cursos de cocina a un carrito*
 
 ## 📷 Vista previa del proyecto
 
-![Vista previa del proyecto](./desing.png)
+![Vista previa del proyecto](./design.png)
 
 
 ---
