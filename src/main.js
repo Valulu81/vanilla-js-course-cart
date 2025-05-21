@@ -14,3 +14,4 @@ document.addEventListener('DOMContentLoaded',() => {
     //agregar el evento de escucha para agregar un curso al carrito
     document.querySelector('#list-courses').addEventListener('click', addCourse)
 }) 
+//
